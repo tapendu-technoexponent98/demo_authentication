@@ -11,7 +11,7 @@ class RequiredContainer {
             Container(
               height: 10,
             ),
-            Text("Registration Screen", style: TextStyles.RegistrationScreen),
+            Text("Registration Screen", style: TextStyles.registrationScreen),
             Container(
               height: 10,
             ),
