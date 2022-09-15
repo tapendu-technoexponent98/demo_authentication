@@ -16,7 +16,8 @@ class _AppLandingState extends State<AppLanding> {
         body: SingleChildScrollView(
           child: Column(
             children: [
-              RequiredContainer.RegistrationBackWhiteContainer
+              RequiredContainer.RegistrationBackWhiteContainer,
+              Text(""),
             ],
           ),
         ),
